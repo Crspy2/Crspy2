@@ -2,4 +2,4 @@
 
 ### 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crspy2&layout=compact&theme=dark&hide_border=true)
+<p align = "center"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=crspy2&layout=compact&theme=dark&hide_border=true' />
