@@ -3,7 +3,7 @@
 ```diff 
 🔞 Age: 16
 🎓 IB Diploma Student
-🌟 Favorite Languages: Kotlin, Python
+🌟 Favorite Languages: Python, Svelte
 ```
 </p>
 
