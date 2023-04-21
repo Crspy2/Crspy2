@@ -10,7 +10,7 @@
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=arduino,astro,bash,css,deno,discord,django,react,express,fastapi,flask,gitlab,github,graphql,html,heroku,javascript,kotlin,markdown,mongodb,mysql,neovim,netlify,nextjs,nodejs,nuxt,python,react,redis,remix,rust,svelte,tailwind,typescript,vim,vscode,visualstudio,vite,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro,bash,css,deno,discord,django,react,express,fastapi,flask,gitlab,github,graphql,html,javascript,markdown,mongodb,mysql,neovim,netlify,nextjs,nodejs,nuxt,python,react,rust,svelte,tailwind,typescript,vim,vscode,visualstudio,vite,vue)](https://skillicons.dev)
 
 ## Contact
 [![Contact](https://rdgb.net/i/IK55r.png)](mailto:crspy@crspy.cc) [![Contact](https://skillicons.dev/icons?i=discord)](https://discord.com/users/385568884511473664)
