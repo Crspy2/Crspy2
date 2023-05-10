@@ -1,4 +1,3 @@
-<p align = "center"><img src='https://github-readme-stats.vercel.app/api?username=crspy2&show_icons=true&theme=algolia'>
 
 ```diff 
 🔞 Age: 16
