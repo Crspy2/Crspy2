@@ -2,7 +2,7 @@
 ```diff 
 🔞 Age: 16
 🎓 IB Diploma Student
-🌟 Favorite Languages: Python, Typescript
+🌟 Favorite Languages: Python, Rust, Golang
 ```
 </p>
 
