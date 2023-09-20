@@ -1,6 +1,6 @@
 
 ```diff 
-🔞 Age: 16
+🔞 Age: 17
 🎓 IB Diploma Student
 🌟 Favorite Languages: Python, Rust, Go
 ```
