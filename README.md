@@ -2,12 +2,14 @@
 ```diff 
 🔞 Age: 17
 🎓 IB Diploma Student
-🌟 Favorite Languages: Python, Rust, Go
+🌟 Favorite Languages: Rust, Python, Typescript
+
+Working on an AI Chatbot
 ```
 </p>
 
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=appwrite,arduino,aws,bash,blender,bootstrap,cpp,cloudflare,cmake,css,deno,discord,bots,django,docker,express,fastapi,firebase,git,github,githubactions,gitlab,go,graphql,html,idea,js,linux,mongodb,mysql,neovim,nextjs,nginx,planetscale,postgres,postman,powershell,prisma,py,pytorch,react,redis,rust,sqlite,supabase,sketchup,sentry,svelte,svg,tauri,typescript,threejs,vercel,wasm,visualstudio,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,bootstrap,cpp,cloudflare,css,deno,discord,express,firebase,git,github,githubactions,go,graphql,html,js,linux,mongodb,mysql,neovim,nextjs,postgres,postman,powershell,prisma,py,pytorch,react,redis,rust,sqlite,supabase,sentry,svelte,svg,tailwind,tauri,typescript,threejs,wasm,visualstudio,vscode)](https://skillicons.dev)
 </div>
