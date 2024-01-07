@@ -5,7 +5,7 @@ Discord bots with **discord.js**, **discord.py** and **twilight-rs**<br />
 # Languages I know<br />
 Highly proficient in Python/Typescript<br />
 Proficient in Go<br />
-Learning Rust<br />
+Learning Rust and C++<br />
 
 <div align="center">
 
