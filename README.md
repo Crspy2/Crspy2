@@ -1,10 +1,9 @@
 # What kind of things do I develop
 Fullstack NextJS applications<br />
 Backends in Go, Python and TS/JS<br />
-Discord bots with **discord.js**, **discord.py** and **twilight-rs**<br />
+Discord bots with **discord.js** and **discord.py**<br />
 # Languages I know<br />
 Highly proficient in Python/Typescript<br />
-Proficient in Go<br />
-Learning Rust and C++<br />
+Proficient in Go and PHP<br />
 
-[![My Skills](https://skillicons.dev/icons?i=alpinejs,arch,aws,bash,bootstrap,cloudflare,css,discord,discordjs,docker,express,git,github,githubactions,go,html,htmx,js,mysql,nextjs,nginx,nodejs,postgres,postman,powershell,react,redis,regex,sqlite,tailwind,&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,bootstrap,cloudflare,css,discord,discordjs,express,git,github,go,html,js,nextjs,nginx,nodejs,postgres,postman,powershell,react,redis,regex,sqlite,tailwind,php,&perline=15)](https://skillicons.dev)
