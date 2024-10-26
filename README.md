@@ -2,11 +2,7 @@
 
 <h1 align="center">Hello</h1>
 
-Welcome to my GitHub profile! I am `👨‍💻 Leo Ghanem`, a full-stack developer from Los Angeles, California. I develop `🌍 websites` and `🤖 discord bots`.
-
-> [!IMPORTANT]  
-> Employer? <a href="https://example.com/" download>Download my resume</a>!<br />
-> Connect with me on LinkedIn <a href="https://www.linkedin.com/in/leo-ghanem-8992012b9/" target="_blank">here</a>
+Welcome to my GitHub profile! I am `👨‍💻 Crspy`, a full-stack developer from Los Angeles, California. I develop `🌍 websites` and `🤖 discord bots`.
 
 <div align="left">
   <h2>My Skillset<h2>
@@ -86,17 +82,11 @@ in case production issues arise.
 > [!IMPORTANT]
 > Please, add a topic before any of your message (e.g. Contribution or Job Offer) to make sure I don't miss it, thank you sooo much!
 <div align="center">
-    <a href="mailto:lghanem@usc.edu">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/lghanem@usc.edu-white?logo=gmail"></a>
-    &nbsp;
-    <a href="https://t.me/anafro_ru">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/leo-ghanem-8992012b9?logo=linkedin"></a>
+    <a href="mailto:crspy@crspy.me">
+        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/crspy@crspy.meail"></a>
     &nbsp;
     <a href="https://discord.com/users/385568884511473664/">
         <img alt="Static Badge" src="https://shields-io.translate.goog/badge/crs.py-7289da?logo=discord&logoColor=white"></a>
-    &nbsp;
-    <a href="https://x.com/@leoghnm">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/leoghnm-black?logo=x&logoColor=white"></a>
     &nbsp;
 </div>
 
