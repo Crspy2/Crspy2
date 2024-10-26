@@ -75,12 +75,18 @@ in case production issues arise.
 > &nbsp;
 
 <br />
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Crspy2/Crspy2/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+<br />
 
 <h2 align="center">Contacts & Social media</h2>
-
 > [!IMPORTANT]
 > Please, add a topic before any of your message (e.g. Contribution or Job Offer) to make sure I don't miss it, thank you sooo much!
-
 <div align="center">
     <a href="mailto:lghanem@usc.edu">
         <img alt="Static Badge" src="https://shields-io.translate.goog/badge/lghanem@usc.edu-white?logo=gmail"></a>
