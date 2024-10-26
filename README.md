@@ -40,7 +40,7 @@ authentication codes from a large variety of websites/services.
 >
 > `nextjs`, `postgers`, `authjs`, `pusher-js`, `tailwindcss`
 > 
-> <a href="https://github.com/quark-database/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> <a href="https://alterasms.io"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 > 
 > &nbsp;
 
@@ -52,7 +52,7 @@ authentication codes from a large variety of websites/services.
 >
 > `openapi`, `mintlify`, `npm`, `postman`, `REST`
 >
-> <a href="https://sellix.com"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> <a href="https://docs.sellix.com"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 >
 > &nbsp;
 
@@ -65,7 +65,7 @@ in case production issues arise.
 >
 > `nextjs`, `go`, `grpc`, `database sessions`
 > 
-> <a href="https://sakurator.anafro.ru/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> <a href="https://licenses.alterasms.io"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 > 
 > &nbsp;
 
