@@ -82,9 +82,9 @@ in case production issues arise.
 > Please, add a topic before any of your message (e.g. Contribution or Job Offer) to make sure I don't miss it, thank you sooo much!
 <div align="center">
     <a href="mailto:crspy@crspy.me">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/crspy@crspy.meail"></a>
+        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/crspy@crspy.me-white?logo=gmail&"></a>
     &nbsp;
-    <a href="https://discord.com/users/385568884511473664/">
+    <a href="https://discord.com/users/385568884511473664">
         <img alt="Static Badge" src="https://shields-io.translate.goog/badge/crs.py-7289da?logo=discord&logoColor=white"></a>
     &nbsp;
 </div>
