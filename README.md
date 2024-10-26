@@ -74,7 +74,6 @@ in case production issues arise.
 > 
 > &nbsp;
 
-<br />
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -82,7 +81,6 @@ in case production issues arise.
   
   <br/><br/><br/>
 </div>
-<br />
 
 <h2 align="center">Contacts & Social media</h2>
 > [!IMPORTANT]
