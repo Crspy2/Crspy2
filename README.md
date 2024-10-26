@@ -4,32 +4,31 @@
 
 Welcome to my GitHub profile! I am `👨‍💻 Crspy`, a full-stack developer from Los Angeles, California. I develop `🌍 websites` and `🤖 discord bots`.
 
-<div align="left">
-  <h2>My Skillset<h2>
-  <h3>Languages I know</h3>
-    
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,javascript,nodejs,typescript,golang,cpp)
-  <h3>Databases I've used</h3>
-  
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,prisma,redis,sqlite,mongodb)
-  <h3>Frontend Frameworks</h3>
-  
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,millionjs,zustand,vite,authjs,fresh,preact,tailwindcss,openapi)
-  <h3>Backend Work</h3>
-  
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,bun,hono,trpc,go,grpc,nginx,ngrok,postman,stripe)
-  <h3>Operating Systems</h3>
-  
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,ubuntu,windows,powershell,wsl)
-  <h3>Other Tools/Software</h3>
-  
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arcbrowser,discordjs,discord,docker,fleet,githubactions,gitkraken,goland,pm2,vercel,visualstudio,vscode)
-  
-</div>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/crspy2/count.svg" />
 </p>
+
+## My Skills
+<h3>Languages I know</h3>
+  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,javascript,nodejs,typescript,golang,cpp)
+<h3>Databases I've used</h3>
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,prisma,redis,sqlite,mongodb)
+<h3>Frontend Frameworks</h3>
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,millionjs,zustand,vite,authjs,fresh,preact,tailwindcss,openapi)
+<h3>Backend Work</h3>
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,bun,hono,trpc,go,grpc,nginx,ngrok,postman,stripe)
+<h3>Operating Systems</h3>
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,ubuntu,windows,powershell,wsl)
+<h3>Other Tools/Software</h3>
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arcbrowser,discordjs,discord,docker,fleet,githubactions,gitkraken,goland,pm2,vercel,visualstudio,vscode)
+  
 
 ## List of my Projects
 > &nbsp;
