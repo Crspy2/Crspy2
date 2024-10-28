@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Crspy`, a full-stack developer f
 > A full-stack dashboard enabling customers to fetch non-VoiP phone numbers from a variety of countries through our API and check them for incoming two-factor
 authentication codes from a large variety of websites/services.
 >
-> `nextjs`, `postgers`, `authjs`, `pusher-js`, `tailwindcss`
+> `nextjs`, `postgres`, `authjs`, `pusher-js`, `tailwindcss`
 > 
 > <a href="https://alterasms.io"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 > 
