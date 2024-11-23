@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Crspy`, a full-stack developer f
 ## My Skills
 <h3>Languages I know</h3>
   
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,typescript,golang,cpp)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,golang,typescript,cpp,rust,java)
 <h3>Databases I've used</h3>
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,prisma,redis,sqlite,mongodb)
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Crspy`, a full-stack developer f
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,millionjs,zustand,vite,authjs,fresh,preact,tailwindcss,openapi)
 <h3>Backend Work</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,bun,hono,trpc,go,grpc,nginx,ngrok,postman,stripe)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,bun,hono,trpc,go,graphql,grpc,nginx,ngrok,postman,stripe)
 <h3>Operating Systems</h3>
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,ubuntu,windows,powershell,wsl)
