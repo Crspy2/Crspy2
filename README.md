@@ -12,13 +12,13 @@ Welcome to my GitHub profile! I am `👨‍💻 Crspy`, a full-stack developer f
 ## My Skills
 <h3>Languages I know</h3>
   
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,golang,typescript,cpp,rust,java)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp,golang,typescript,python)
 <h3>Databases I've used</h3>
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,prisma,redis,sqlite,mongodb)
 <h3>Frontend Frameworks</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,millionjs,zustand,vite,authjs,fresh,preact,tailwindcss,openapi)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,millionjs,zustand,vite,authjs,tailwindcss,openapi)
 <h3>Backend Work</h3>
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,bun,hono,trpc,go,graphql,grpc,nginx,ngrok,postman,stripe)
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Crspy`, a full-stack developer f
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,ubuntu,windows,powershell,wsl)
 <h3>Other Tools/Software</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arcbrowser,discordjs,discord,docker,fleet,githubactions,gitkraken,goland,pm2,vercel,visualstudio,vscode)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arcbrowser,discordjs,discord,docker,gitkraken,goland,pm2,vercel,visualstudio,vscode)
   
 
 ## List of my Projects
