@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Crspy`, a full-stack developer f
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,millionjs,zustand,vite,authjs,tailwindcss,openapi)
 <h3>Backend Work</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,bun,hono,trpc,go,graphql,grpc,nginx,ngrok,postman,stripe)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,bun,hono,trpc,graphql,grpc,nginx,ngrok,postman,stripe)
 <h3>Operating Systems</h3>
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,ubuntu,windows,powershell,wsl)
