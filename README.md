@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Crspy`, a full-stack developer f
 ## My Skills
 <h3>Languages I know</h3>
   
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp,golang,typescript,python)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp,golang,rust,typescript,python)
 <h3>Databases I've used</h3>
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,prisma,redis,sqlite,mongodb)
