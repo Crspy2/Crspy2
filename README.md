@@ -65,7 +65,6 @@ in case production issues arise.
 >
 > `nextjs`, `go`, `grpc`, `database sessions`
 > 
-> <a href="https://licenses.alterasms.io"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 > 
 > &nbsp;
 
