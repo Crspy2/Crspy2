@@ -32,40 +32,14 @@ Welcome to my GitHub profile! I am `👨‍💻 Crspy`, a full-stack developer f
 
 ## List of my Projects
 > &nbsp;
-> 
 > <img width="18" src="https://alterasms.io/altera_dark.png"> &nbsp; AlteraSMS `v3.0`
 >
 > A full-stack dashboard enabling customers to fetch non-VoiP phone numbers from a variety of countries through our API and check them for incoming two-factor
 authentication codes from a large variety of websites/services.
 >
-> `nextjs`, `postgres`, `authjs`, `pusher-js`, `tailwindcss`
+> `nextjs`, `postgres`, `golang`, `gRPC`, `gorm.io`, `stripe`, `paypal`, `nowpayments`
 > 
 > <a href="https://alterasms.io"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
-> 
-> &nbsp;
-
-> &nbsp;
->
-> <img width="18" src="https://avatars.githubusercontent.com/u/66204773"> &nbsp; Sellix.io **Documentation** `v2.0`
->
-> Documentation for Sellix.io's web dashboard and developer documentation
->
-> `openapi`, `mintlify`, `npm`, `postman`, `REST`
->
-> <a href="https://docs.sellix.com"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
->
-> &nbsp;
-
-> &nbsp;
-> 
-> <img width="18" src="https://raw.githubusercontent.com/anafro/anafro/main/Logos/Sakurator.svg"> &nbsp; Licensing System `in development`
-> 
-> A feature-rich licensing panel allowing developers to easily license their products, control usage through user accounts and hardware locks, and extend the duration of licenses
-in case production issues arise.
->
-> `nextjs`, `go`, `grpc`, `database sessions`
-> 
-> 
 > &nbsp;
 
 <div align="center">
