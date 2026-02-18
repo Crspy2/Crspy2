@@ -4,11 +4,6 @@
 
 Welcome to my GitHub profile! I am `👨‍💻 Crspy`, a full-stack developer from Los Angeles, California. I develop `🌍 websites` and `🤖 discord bots`.
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/crspy2/count.svg" />
-</p>
-
 ## My Skills
 <h3>Languages I know</h3>
   
