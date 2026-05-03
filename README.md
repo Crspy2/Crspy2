@@ -44,17 +44,3 @@ authentication codes from a large variety of websites/services.
   
   <br/><br/><br/>
 </div>
-
-<h2 align="center">Contacts & Social media</h2>
-> [!IMPORTANT]
-> Please, add a topic before any of your message (e.g. Contribution or Job Offer) to make sure I don't miss it, thank you sooo much!
-<div align="center">
-    <a href="mailto:crspy8687@gmail.com">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/crspy@crspy.me-white?logo=gmail&"></a>
-    &nbsp;
-    <a href="https://discord.com/users/1323519785694265356">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/crs.py-7289da?logo=discord&logoColor=white"></a>
-    &nbsp;
-</div>
-
-<br />
